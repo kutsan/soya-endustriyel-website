@@ -1,6 +1,6 @@
-# `soyaendustriyel` [![Node.js CI](https://github.com/kutsan/soyaendustriyel/actions/workflows/nodejs.yml/badge.svg)](https://github.com/kutsan/soyaendustriyel/actions/workflows/nodejs.yml)
+# `soya-endustriyel-website` [![Node.js CI](https://github.com/kutsan/soyaendustriyel/actions/workflows/nodejs.yml/badge.svg)](https://github.com/kutsan/soyaendustriyel/actions/workflows/nodejs.yml)
 
-![screenshot](https://raw.githubusercontent.com/kutsan/soyaendustriyel/master/.github/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/kutsan/soya-endustriyel-website/master/.github/screenshot.png)
 
 ## Development
 

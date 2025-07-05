@@ -1,10 +1,10 @@
 {
-  "name": "soyaendustriyel",
+  "name": "soya-endustriyel-website",
   "version": "0.4.0",
   "private": true,
   "description": "Website of Soya Endüstriyel",
   "homepage": "https://soyaendustriyel.com",
-  "repository": "github:kutsan/soyaendustriyel.git",
+  "repository": "github:kutsan/soya-endustriyel-website.git",
   "license": "GPL-3.0",
   "author": "Kutsan Kaplan <me@kutsan.dev> (https://kutsan.dev)",
   "scripts": {
